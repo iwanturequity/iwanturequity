@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajiv Kumar</h1>
-<div align="center"> <img src="https://github.com/iwanturequity/iwanturequity/main/banner.jpg"> </div>
+<div align="center"> <img src="https://github.com/iwanturequity/iwanturequity/blob/main/banner.jpg"> </div>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
